@@ -1,2 +1,2 @@
 # TUNSA-AI-team
-We collaborate on cool projects hihi
+We are currently collaborating on open source projects
